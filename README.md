@@ -1,0 +1,2 @@
+# fscal
+Calendar software experimenting
